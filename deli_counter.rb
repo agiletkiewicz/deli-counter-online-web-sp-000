@@ -2,8 +2,9 @@
 
 katz_deli = []
 
-def line
-  
+def line(array)
+  if array.length == 0 
+    puts ""
 end
 
 def take_a_number(array, name)
